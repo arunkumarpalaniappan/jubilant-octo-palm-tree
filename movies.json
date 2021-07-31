@@ -1,0 +1,202 @@
+[
+    {
+        "_id": "5af3c86ac12f0832e1ec1a88",
+        "status": "Released",
+        "tagline": "",
+        "title": "Toy Story",
+        "release_date": "1995-10-30",
+        "runtime": 81,
+        "vote_average": 7.7,
+        "vote_count": 5415
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1a89",
+        "status": "Released",
+        "tagline": "Still Yelling. Still Fighting. Still Ready for Love.",
+        "title": "Grumpier Old Men",
+        "release_date": "1995-12-22",
+        "runtime": 101,
+        "vote_average": 6.5,
+        "vote_count": 92
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1a8c",
+        "status": "Released",
+        "tagline": "Just When His World Is Back To Normal... He's In For The Surprise Of His Life!",
+        "title": "Father of the Bride Part II",
+        "release_date": "1995-02-10",
+        "runtime": 106,
+        "vote_average": 5.7,
+        "vote_count": 173
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1a91",
+        "status": "Released",
+        "tagline": "No limits. No fears. No substitutes.",
+        "title": "GoldenEye",
+        "release_date": "1995-11-16",
+        "runtime": 130,
+        "vote_average": 6.6,
+        "vote_count": 1194
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1a94",
+        "status": "Released",
+        "tagline": "Part Dog. Part Wolf. All Hero.",
+        "title": "Balto",
+        "release_date": "1995-12-22",
+        "runtime": 78,
+        "vote_average": 7.1,
+        "vote_count": 423
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1a9a",
+        "status": "Released",
+        "tagline": "New animals. New adventures. Same hair.",
+        "title": "Ace Ventura: When Nature Calls",
+        "release_date": "1995-11-10",
+        "runtime": 90,
+        "vote_average": 6.1,
+        "vote_count": 1128
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1a9c",
+        "status": "Released",
+        "tagline": "The mob is tough, but it’s nothing like show business.",
+        "title": "Get Shorty",
+        "release_date": "1995-10-20",
+        "runtime": 105,
+        "vote_average": 6.4,
+        "vote_count": 305
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1aa9",
+        "status": "Released",
+        "tagline": "A little pig goes a long way.",
+        "title": "Babe",
+        "release_date": "1995-07-18",
+        "runtime": 89,
+        "vote_average": 6,
+        "vote_count": 756
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1ab3",
+        "status": "Released",
+        "tagline": "Nothing In This World Has Prepared You For This.",
+        "title": "Mortal Kombat",
+        "release_date": "1995-08-18",
+        "runtime": 101,
+        "vote_average": 5.4,
+        "vote_count": 452
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1ab7",
+        "status": "Released",
+        "tagline": "An American legend comes to life.",
+        "title": "Pocahontas",
+        "release_date": "1995-06-14",
+        "runtime": 81,
+        "vote_average": 6.7,
+        "vote_count": 1509
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1ac9",
+        "status": "Released",
+        "tagline": "God made him simple. Science made him a god. Now, he wants revenge.",
+        "title": "Lawnmower Man 2: Beyond Cyberspace",
+        "release_date": "1996-01-12",
+        "runtime": 92,
+        "vote_average": 2.8,
+        "vote_count": 32
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1acc",
+        "status": "Released",
+        "tagline": "A lot can go down between thursday and saturday...",
+        "title": "Friday",
+        "release_date": "1995-04-26",
+        "runtime": 91,
+        "vote_average": 7,
+        "vote_count": 513
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1acd",
+        "status": "Released",
+        "tagline": "One night is all that stands between them and freedom. But it's going to be a hell of a night.",
+        "title": "From Dusk Till Dawn",
+        "release_date": "1996-01-19",
+        "runtime": 108,
+        "vote_average": 6.9,
+        "vote_count": 1644
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1ad3",
+        "status": "Released",
+        "tagline": "The last scream you hear will be your own.",
+        "title": "Screamers",
+        "release_date": "1995-09-08",
+        "runtime": 108,
+        "vote_average": 6.1,
+        "vote_count": 154
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1af1",
+        "status": "Released",
+        "tagline": "Set sail for Muppet mayhem!",
+        "title": "Muppet Treasure Island",
+        "release_date": "1996-02-16",
+        "runtime": 100,
+        "vote_average": 6.5,
+        "vote_count": 93
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1b04",
+        "status": "Released",
+        "tagline": "It's a brand new beginning in the adventure that never ends",
+        "title": "The Neverending Story III: Escape from Fantasia",
+        "release_date": "1994-10-26",
+        "runtime": 95,
+        "vote_average": 4.4,
+        "vote_count": 105
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1b16",
+        "status": "Released",
+        "tagline": "Whatcha gonna do?",
+        "title": "Bad Boys",
+        "release_date": "1995-04-07",
+        "runtime": 118,
+        "vote_average": 6.5,
+        "vote_count": 1729
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1b1e",
+        "status": "Released",
+        "tagline": "Courage now, truth always...",
+        "title": "Batman Forever",
+        "release_date": "1995-06-16",
+        "runtime": 121,
+        "vote_average": 5.2,
+        "vote_count": 1529
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1b21",
+        "status": "Released",
+        "tagline": "Welcome to the planet Brooklyn.",
+        "title": "Blue in the Face",
+        "release_date": "1995-09-15",
+        "runtime": 83,
+        "vote_average": 6.8,
+        "vote_count": 28
+    },
+    {
+        "_id": "5af3c86ac12f0832e1ec1b23",
+        "status": "Released",
+        "tagline": "Get an afterlife",
+        "title": "Casper",
+        "release_date": "1995-05-26",
+        "runtime": 100,
+        "vote_average": 6,
+        "vote_count": 1045
+    }
+]
